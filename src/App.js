@@ -1,6 +1,6 @@
 
 import './App.css';
-import WordComponent from './components/theasurus-API/index'
+import WordComponent from './components/thesaurus-API/index'
 function App() {
   return (
     <div className="App">
