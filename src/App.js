@@ -1,10 +1,10 @@
 
 import './App.css';
-import WordComponent from './components/thesaurus-API/index'
+import DisasterComponent from './components/disaster-API/index'
 function App() {
   return (
     <div className="App">
-      <WordComponent/>
+      <DisasterComponent/>
       
     </div>
   );

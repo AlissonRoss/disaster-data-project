@@ -21,14 +21,14 @@
   margin-top: 2em;
   width: 15em;
 }
-.Words{
+.Images{
   display: flex;
   flex-direction:row;
   flex-wrap: wrap;
   align-items: center;
   width: 90vw;
 }
-.Words h4{
+.Images h4{
   padding: 1em;
 }
 footer{
